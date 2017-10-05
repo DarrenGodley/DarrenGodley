@@ -13,7 +13,7 @@ public class exercise4 {
         nameLength = fullName.length();
         first = fullName.charAt(0);
         capital = fullName.toUpperCase();
-        
+
 
     }
 }
